@@ -18,10 +18,19 @@
     <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
             <li class="nav-item">
-                <a href="/Product" class="nav-link">Sản phẩm</a>
+                <a href="/Student" class="nav-link">Sinh viên</a>
             </li>
             <li class="nav-item">
-                <a href="/Category" class="nav-link">Danh mục</a>
+                <a href="/Category" class="nav-link">Học phần</a>
+            </li>
+            <li class="nav-item">
+                <a href="/Category" class="nav-link">Học phần</a>
+            </li>
+            <li class="nav-item">
+                <a href="/Category" class="nav-link">Đăng ký Học phần</a>
+            </li>
+            <li class="nav-item">
+                <a href="/Category" class="nav-link">Đăng nhập</a>
             </li>
         </ul>
     </div>

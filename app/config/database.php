@@ -1,10 +1,10 @@
 <?php
 
-namespace config;
+//namespace config;
 class Database
 {
     private $host = '127.0.0.1';
-    private $db_name = '';
+    private $db_name = 'cmp187_march17th';
     private $username = 'root';
     private $password = 'root';
     private $port = 8889;
